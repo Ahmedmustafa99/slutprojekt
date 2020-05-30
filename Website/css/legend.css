@@ -1,5 +1,5 @@
 body{font-family: ;
-background-color:black;
+background-color:gray;
 }
 #container{
 width:1080px;
@@ -88,28 +88,26 @@ float:right;
 width:250px;
 margin:20px 10px 20px 20px;
 border: 3px solid #e3e3e3;
-text-align: center;
 }
 #sidebar_history{
 float:right;
 width:250px;
 margin:20px 10px 20px 20px;
 border: 3px solid #e3e3e3;
-text-align: center;
 }
 #sidebar_music{
 float:right;
 width:250px;
 margin:20px 10px 20px 20px;
 border: 3px solid #e3e3e3;
-text-align: center;
+
 }
 #sidebar_top_billionares{
 float:right;
 width:250px;
 margin:20px 10px 20px 20px;
 border: 3px solid #e3e3e3;
-text-align: center;
+
 }
 #sidebar_athletes{
 float:right;
